@@ -1,0 +1,3 @@
+[submodule "iron-coder-boards/Adafruit/Feather_RP2040/template"]
+	path = iron-coder-boards/Adafruit/Feather_RP2040/template
+	url = https://github.com/fredward36/iron-coder
